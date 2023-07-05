@@ -3,4 +3,8 @@ mediapipe
 numpy
 streamlit
 scikit-learn==1.2.2
-
+pyvirtualdisplay==2.2
+libglib2.0-0
+libsm6
+libxrender1
+libfontconfig1
