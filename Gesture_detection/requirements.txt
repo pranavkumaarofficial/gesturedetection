@@ -2,7 +2,6 @@ cycler==0.11.0
 Cython==0.29.35
 mediapipe
 numpy
-opencv-python-headless
 Pillow
 streamlit
 
