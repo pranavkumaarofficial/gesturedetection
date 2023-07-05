@@ -1,4 +1,4 @@
-python==3.8
+opencv
 opencv-python
 mediapipe
 numpy
