@@ -1,6 +1,3 @@
-libgl1-mesa-glx
 mediapipe
-numpy
-Pillow
 streamlit
 
