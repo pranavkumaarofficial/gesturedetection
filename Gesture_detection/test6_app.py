@@ -19,7 +19,9 @@ mp_hands = mp.solutions.hands
 FRAME_WINDOW = st.image([])
 
 
-model = pickle.load(open('C:/Users/Pranav/Desktop/Gesture_detection/model.pkl', 'rb'))
+#model = pickle.load(open('C:/Users/Pranav/Desktop/Gesture_detection/model.pkl', 'rb'))
+pickle.load(open('model.pkl', 'rb'))
+
 
 def record_landmarks(specter):
     left = np.zeros((21, 3), dtype=np.float32)
