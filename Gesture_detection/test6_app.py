@@ -1,12 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul  5 15:14:21 2023
-
-@author: Pranav
-"""
-
-
-#import cv2
+import cv2
 import mediapipe as mp
 import numpy as np
 import streamlit as st
