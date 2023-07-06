@@ -4,7 +4,7 @@ Created on Wed Jul  5 15:14:21 2023
 
 @author: Pranav
 """
-pip install --upgrade pip
+
 
 import cv2
 import mediapipe as mp
