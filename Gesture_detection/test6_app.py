@@ -13,7 +13,8 @@ FRAME_WINDOW = st.image([])
 
 
 #model = pickle.load(open('C:/Users/Pranav/Desktop/Gesture_detection/model.pkl', 'rb'))
-pickle.load(open('model.pkl', 'rb'))
+model = pickle.load(open('model.pkl', 'rb'))
+#model = pickle.load(open('https://github.com/pranavkumaarofficial/gesturedetection/edit/main/Gesture_detection/model.pkl', 'rb'))
 
 
 def record_landmarks(specter):
