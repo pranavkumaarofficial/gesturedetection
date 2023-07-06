@@ -6,7 +6,7 @@ Created on Wed Jul  5 15:14:21 2023
 """
 
 
-import cv2
+#import cv2
 import mediapipe as mp
 import numpy as np
 import streamlit as st
@@ -21,7 +21,7 @@ FRAME_WINDOW = st.image([])
 
 
 #model = pickle.load(open('C:/Users/Pranav/Desktop/Gesture_detection/model.pkl', 'rb'))
-pickle.load(open('Gesture_detection/model.pkl', 'rb'))
+pickle.load(open('model.pkl', 'rb'))
 
 
 def record_landmarks(specter):
