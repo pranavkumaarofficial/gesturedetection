@@ -1,6 +1,6 @@
-!pip install --upgrade pip
-streamlit==0.75.0
-mediapipe==0.10.1
-numpy==1.24.4
-opencv-contrib-python==4.8.0.74
-opencv-python==4.8.0.74
+streamlit
+mediapipe
+numpy
+opencv-contrib-python
+opencv-python
+opencv-python-headless
